@@ -1,0 +1,30 @@
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+app/build
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Snowpack dependency directory (https://snowpack.dev/)
+web_modules/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local

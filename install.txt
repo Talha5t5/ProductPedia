@@ -1,0 +1,44 @@
+navigation
+npm install @react-navigation/native react-native-elements react-native-screens react-native-safe-area-context @react-navigation/native-stack 
+
+twilio
+
+asyncStorage
+npm i @react-native-async-storage/async-storage
+
+radio buttons
+npm install react-native-paper
+
+websocket
+npm install  socket.io-client
+
+geolocation
+npm i @react-native-community/geolocation
+
+toast
+npm i react-native-toast-message
+
+picker dropdownmenu
+npm install react-native-dropdown-picker
+
+maps
+npm i react-native-maps
+
+animations
+npm install react-native-animatable
+npm install react-native-reanimated react-native-gesture-handler
+
+image-picker
+npm install react-native-image-picker
+
+axios
+npm i axios
+
+
+npm run android -- --mode="release"
+
+date time picker
+npm install @react-native-date-picker/native
+
+Redux
+npm install @reduxjs/toolkit react-redux redux redux-saga

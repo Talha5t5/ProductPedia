@@ -1,0 +1,42 @@
+export const GET_ITEM = 'GET_ITEM';
+export const ADD_ITEM = 'ADD_ITEM';
+export const REMOVE_ITEM = 'REMOVE_ITEM';
+
+//products
+export const GET_PRODUCTS = 'GET_PRODUCTS';
+export const GET_PRODUCTS_SUCCESS = 'GET_PRODUCT_SUCCESS';
+export const ADD_PRODUCTS = 'ADD_PRODUCTS';
+
+//companies
+export const GET_COMPANIES = 'GET_COMPANIES';
+export const GET_COMPANIES_SUCCESS = 'GET_COMPANIES_SUCCESS';
+export const ADD_COMPANIES = 'ADD_COMPANIES';
+
+//countries
+export const GET_COUNTRIES = 'GET_COUNTRIES';
+export const GET_COUNTRIES_SUCCESS = 'GET_COUNTRIES_SUCCESS';
+export const ADD_COUNTRIES = 'ADD_COUNTRIES';
+
+//models
+export const UPDATE_PRODUCTS_MODEL_DATA = 'UPDATE_PRODUCTS_MODEL_DATA';
+
+//props values
+export const TOGGLE_MODEL_VISIBLILITY = 'TOGGLE_MODEL_VISIBLILITY';
+export const PARAMS_DATA = 'PARAMS_DATA';
+
+//Temp Product
+export const GET_TEMP_PRODUCT = 'GET_TMEP_PRODUCT';
+export const GET_TEMP_PRODUCT_SUCCESS = 'GET_TEMP_PRODUCT_SUCCESS';
+export const ADD_TEMP_PRODUCT = 'ADD_TMEP_PRODUCT';
+
+//Get Product
+export const FETCH_DATA = 'FETCH_DATA';
+export const FETCH_FILTER_DATA = 'FETCH_FILTER_DATA';
+export const FETCH_DATA_SUCCESS = 'FETCH_DATA_SUCCESS';
+export const FETCH_DATA_FAILURE = 'FETCH_DATA_FAILURE';
+export const FETCH_DATA_CLEAR = 'FETCH_DATA_CLEAR';
+export const UPDATE_FETCH_DATA = 'UPDATE_FETCH_DATA';
+
+//Get Category
+export const GET_CATEGORY = 'GET_CATEGORY';
+export const GET_CATEGORY_SUCCESS = 'GET_CATEGORY_SUCCESS';
